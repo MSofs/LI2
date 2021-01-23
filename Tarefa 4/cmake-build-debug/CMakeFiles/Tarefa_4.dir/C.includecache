@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Utilizador/Desktop/Tarefas LI2/Tarefa 4/.//tabuleiros.h
+
+C:/Users/Utilizador/Desktop/Tarefas LI2/Tarefa 4/main.c
+stdio.h
+-
+stdlib.h
+-
+.//tabuleiros.h
+C:/Users/Utilizador/Desktop/Tarefas LI2/Tarefa 4/.//tabuleiros.h
+
